@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://jeffnuss.github.io
+url: http://blog.jeffnuss.com
 title: Jeff's Blog
 subtitle:
 author: Jeff Nuss
@@ -90,7 +90,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: jnuss
+disqus_short_name: jnussblog
 disqus_show_comment_count: true
 
 # Google Analytics
